@@ -69,10 +69,17 @@ Note: Issuing requests to any regions not on this list will cause an API error.
 ## Official Documentation & Resources
 * [Vertex AI training clusters overview](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/overview)
 * [Get started with training clusters](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/create-cluster)
-* [Compute resources](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/compute-resources)
-* [Networking](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/networking)
-* [Storage](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/storage)
-* [Cluster resiliency](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/cluster-resiliency)
+* Deployment Considerations
+  * [Compute resources](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/compute-resources)
+  * [Networking](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/networking)
+  * [Storage](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/storage)
+  * [Orchestration](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/orchestration)
+  * [Create cluster](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/create-cluster)
 * [Manage cluster](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/manage-cluster)
-* [Visualizing jobs with Vertex AI TensorBoard](https://docs.cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview)
+* [Cluster resiliency](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/cluster-resiliency)
+* Run workload on cluster
+  * [Run prebuilt workloads](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/run-prebuilt-workloads)
+  * [Visualizing jobs with Vertex AI TensorBoard](https://docs.cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview)
+
+
 * [Google Cloud Managed Lustre](https://cloud.google.com/products/managed-lustre)
