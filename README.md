@@ -14,7 +14,8 @@ See the official blog to learn more about it.
 ## Slurm
 Slurm (Simple Linux Utility for Resource Management) is an open-source workload manager and job scheduling system to manage Linux clusters, particularly in HPC (High-Performance Computing) environments.
 
-[Slurm Workload Manager - Accounting and Resource Limits](https://slurm.schedmd.com/accounting.html)
+See the official guide to learn more about Slurm.
+- [Slurm Workload Manager - Accounting and Resource Limits](https://slurm.schedmd.com/accounting.html)
 
 > "Slurm is an industry standard known for optimized GPU scheduling, automated fault tolerance, and simplified parallel job launch."
 > — [Vertex AI Managed Training](https://docs.cloud.google.com/vertex-ai/docs/training/managed-training/overview)
