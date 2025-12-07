@@ -66,7 +66,8 @@ Note: Issuing requests to any regions not on this list will cause an API error.
 | Scenarios | Generative AI, + Agents deck, Generative Media, Managed AI Platform |
 | Horizontal pitches | Regionalization and Provisioned Throughput |
 
-## Official Documentation & Resources
+## Official Guide
+Google Cloud > Doc. > AI and ML > Vertex AI
 * [Vertex AI training clusters overview](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/overview)
 * [Get started with training clusters](https://docs.cloud.google.com/vertex-ai/docs/training/training-clusters/create-cluster)
 * Deployment Considerations
