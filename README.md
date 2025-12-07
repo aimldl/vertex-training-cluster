@@ -11,7 +11,7 @@ Vertex AI Training Cluster is a fully managed compute infrastructure designed to
 Slurm (Simple Linux Utility for Resource Management) is an open-source workload manager and job scheduling system to manage Linux clusters, particularly in HPC (High-Performance Computing) environments.
 
 > "Slurm is an industry standard known for optimized GPU scheduling, automated fault tolerance, and simplified parallel job launch."
-> — Vertex AI Managed Training
+> — [Vertex AI Managed Training](https://docs.cloud.google.com/vertex-ai/docs/training/managed-training/overview)
 
 ## Standardized Framework Options (with Seamless Integration)
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)
